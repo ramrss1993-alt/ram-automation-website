@@ -93,7 +93,7 @@ export default function HowItWorks() {
         <div className="mt-16 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
           {steps.map((step, index) => (
             <Reveal key={step.number} style={{ transitionDelay: `${index * 100}ms` }}>
-              <div className="h-full rounded-2xl border border-white/10 bg-white/[0.03] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-indigo-400/40 hover:shadow-[0_0_40px_-15px_rgba(129,140,248,0.5)]">
+              <div className="h-full rounded-2xl border-x border-b border-white/10 bg-white/[0.03] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-indigo-400/40 hover:shadow-[0_0_40px_-15px_rgba(129,140,248,0.5)]">
                 <span className="bg-gradient-to-br from-indigo-400 to-purple-400 bg-clip-text text-3xl font-bold text-transparent">
                   {step.number}
                 </span>

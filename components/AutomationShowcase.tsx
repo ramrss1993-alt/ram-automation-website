@@ -136,12 +136,11 @@ export default function AutomationShowcase() {
             Automation Solutions
           </span>
           <h2 className="mt-4 text-3xl font-semibold tracking-tight text-white sm:text-4xl">
-            See what we can automate.
+            Automation solutions, built for real businesses.
           </h2>
           <p className="mt-4 text-base leading-7 text-zinc-400">
-            From customer conversations to back-office operations, we connect
-            AI, workflows and your existing tools to create intelligent
-            systems that work around the clock.
+            Four automation systems we build for clients — see the tools,
+            the workflow and the outcome behind each one.
           </p>
         </Reveal>
 

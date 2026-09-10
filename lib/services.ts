@@ -4,6 +4,7 @@ import {
   InvoiceIcon,
   ShareIcon,
   TrendingUpIcon,
+  PhoneIcon,
   type IconProps,
 } from "@/components/icons";
 
@@ -49,5 +50,13 @@ export const services: Service[] = [
       "AI-powered stock market research, financial data analysis, market insights, technical analysis and automated reporting.",
     cta: "Explore market analysis",
     Icon: TrendingUpIcon,
-  },
+},
+{
+  title: "AI Voice Agent",
+  description:
+    "AI-powered voice agents that handle customer calls, answer questions, qualify leads and automate conversations.",
+  cta: "Build a voice agent",
+  Icon: PhoneIcon,
+},
 ];
+

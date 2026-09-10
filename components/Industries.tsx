@@ -65,9 +65,9 @@ export default function Industries() {
             Automation for real business operations
           </h2>
           <p className="mt-4 text-base leading-7 text-zinc-600 dark:text-zinc-400">
-            From customer communication to back-office operations, RAM
-            Automation helps businesses automate workflows across multiple
-            functions.
+            Automation isn&apos;t limited to one team. Here&apos;s how it
+            applies across the functions that keep a business running —
+            from customer-facing work to back-office operations.
           </p>
         </Reveal>
 
