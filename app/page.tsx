@@ -1,5 +1,4 @@
 import Navbar from "@/components/Navbar";
-import Automation3DBackground from "@/components/Automation3DBackground";
 import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 import HowItWorks from "@/components/HowItWorks";
@@ -14,7 +13,6 @@ import Footer from "@/components/Footer";
 export default function Home() {
   return (
     <div className="relative flex flex-1 flex-col bg-white dark:bg-black">
-      <Automation3DBackground />
 
       <div className="relative z-10">
         <Navbar />
