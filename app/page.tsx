@@ -5,6 +5,7 @@ import HowItWorks from "@/components/HowItWorks";
 import AutomationShowcase from "@/components/AutomationShowcase";
 import WhyRamAutomation from "@/components/WhyRamAutomation";
 import Industries from "@/components/Industries";
+import Team from "@/components/Team";
 import FAQ from "@/components/FAQ";
 import FinalCTA from "@/components/FinalCTA";
 import Contact from "@/components/Contact";
@@ -24,6 +25,7 @@ export default function Home() {
           <AutomationShowcase />
           <WhyRamAutomation />
           <Industries />
+          <Team />
           <FAQ />
           <FinalCTA />
           <Contact />
